@@ -2,3 +2,14 @@ main>p {
 	text-indent: 24px;
 	text-align: justify;
 }
+
+#banner-slider .carousel-item {
+	height: auto;
+	min-height: 300px;
+	max-height: 450px;
+	overflow: hidden;
+}
+
+#banner-slider .carousel-item img {
+	width: 100%;
+}
